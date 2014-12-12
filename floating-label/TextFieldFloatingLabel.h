@@ -12,6 +12,6 @@
 
 @property (nonatomic, strong) UILabel *floatingLabel;
 
-- (void) addListener;
+- (void) initFloatingLabel;
 
 @end
